@@ -1,0 +1,22 @@
+# images
+rock_win_image_path = "images/rock_win.png"
+rock_lose_image_path = "images/rock_lose.png"
+rock_neutral_image_path = "images/rock.png"
+leaf_win_image_path = "images/leaf_win.png"
+leaf_lose_image_path = "images/leaf_lose.png"
+leaf_neutral_image_path = "images/leaf.png"
+scissors_win_image_path = "images/scissors_win.png"
+scissors_lose_image_path = "images/scissors_lose.png"
+scissors_neutral_image_path = "images/scissors.png"
+icon_dark = "images/icon_dark.png"
+icon_light = "images/icon_light.png"
+thumb_up = "images/thumb_up.png"
+thumb_down = "images/thumb_down.png"
+
+# musics
+button_sound = "music/button_sound_effect.mp3"
+fail_sound = "music/fail_trumpet_sound_effect.mp3"
+success_sound = "music/success_sound_effect.mp3"
+rock_sound = "music/stone_dropping_sound_effect.mp3"
+leaf_sound = "music/leaf_crushing_sound_effect.mp3"
+scissors_sound = "music/scissors_cutting_sound_effect.mp3"
