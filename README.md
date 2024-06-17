@@ -18,4 +18,4 @@ The app's theme follows the system theme automatically (dark/light).
 - **Pillow** (PIL fork, Python Imaging Library) is used to manage images.
 - **pygame** is a library for the development of multimedia applications using Python. It is used in the program to play sounds. It is quite a huge library for this simple purpose, but it is really simple to use.
 
-If Python is not installed, you can use the package in the release.
+If Python is not installed, you can use the package in the [release](https://github.com/popobg/Rock-leaf-scissors/releases/tag/v1.0).
